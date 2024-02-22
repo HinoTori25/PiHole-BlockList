@@ -8,3 +8,7 @@
 # ------------------------------------[FILTERS]-------------------------------------
 # 0.0.0.0 a.uguu.se Issue 57
 0.0.0.0  scotiasunat.com #spam 2024.02.20
+0.0.0.0  premunearoon.top #ads 2024.02.22
+0.0.0.0  click.eu.antcixn.com #ads 2024.02.22
+0.0.0.0  condles-temark.com #ads 2024.02.22
+0.0.0.0  gml-grp.com #ads 2024.02.22
