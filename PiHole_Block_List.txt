@@ -12,3 +12,4 @@
 0.0.0.0  click.eu.antcixn.com #ads 2024.02.22
 0.0.0.0  condles-temark.com #ads 2024.02.22
 0.0.0.0  gml-grp.com #ads 2024.02.22
+0.0.0.0  cfe-mi.mx #spam & phishing 2024.03.26
