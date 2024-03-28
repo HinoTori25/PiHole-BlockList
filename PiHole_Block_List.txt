@@ -14,3 +14,4 @@
 0.0.0.0  gml-grp.com #ads 2024.02.22
 0.0.0.0  cfe-mi.mx #spam & phishing 2024.03.26
 0.0.0.0  loagoshy.net #Malvertising 2024.04.20
+0.0.0.0  postrecaudos.cc #Phising 2024.03.27
