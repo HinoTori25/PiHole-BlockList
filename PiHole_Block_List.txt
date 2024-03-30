@@ -15,3 +15,8 @@
 0.0.0.0  cfe-mi.mx #spam & phishing 2024.03.26
 0.0.0.0  loagoshy.net #Malvertising 2024.04.20
 0.0.0.0  postrecaudos.cc #Phising 2024.03.27
+0.0.0.0  theget.monster #adware 2024.03.29
+0.0.0.0  slk594.com #adware 2024.03.29
+0.0.0.0  tryget.monster #adware 2024.03.29
+0.0.0.0  appsget.monster #adware 2024.03.29
+0.0.0.0  kingadblock.com  #adware 2024.03.29
