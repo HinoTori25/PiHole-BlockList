@@ -20,3 +20,4 @@
 0.0.0.0  tryget.monster #adware 2024.03.29
 0.0.0.0  appsget.monster #adware 2024.03.29
 0.0.0.0  kingadblock.com  #adware 2024.03.29
+0.0.0.0  darkandshadow.com # phishing 2024.04.03
