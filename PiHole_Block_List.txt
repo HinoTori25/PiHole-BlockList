@@ -20,4 +20,10 @@
 0.0.0.0  tryget.monster #adware 2024.03.29
 0.0.0.0  appsget.monster #adware 2024.03.29
 0.0.0.0  kingadblock.com  #adware 2024.03.29
-0.0.0.0  darkandshadow.com # phishing 2024.04.03
+0.0.0.0  darkandshadow.com #phishing 2024.04.03
+0.0.0.0  combinedleather.com #phishing 2024.04.04
+0.0.0.0  youngdesign.co.nz #phishing 2024.04.04
+0.0.0.0  bulletpoof.ru.com #phishing 2024.04.04
+0.0.0.0  calamaca.com #phishing 2024.04.04
+0.0.0.0  taxfreepremiums.com #phishing 2024.04.04
+0.0.0.0  heywood-blinks.us.to #phishing 2024.04.04
