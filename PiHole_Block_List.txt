@@ -28,3 +28,4 @@
 0.0.0.0  taxfreepremiums.com #phishing 2024.04.04
 0.0.0.0  heywood-blinks.us.to #phishing 2024.04.04
 0.0.0.0  peru-spost.shop  #phishing 2024.04.04
+0.0.0.0  aideca.org.pe #ransomware 2024.05.08
