@@ -35,3 +35,4 @@
 0.0.0.0  dogmupdate.com
 0.0.0.0  www.rockcreekdds.com
 0.0.0.0  flexiblemaria.com
+0.0.0.0  scotiaban.eltermostato.com #phising 2024.06.14
