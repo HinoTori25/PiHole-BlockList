@@ -4707,7 +4707,7 @@
 0.0.0.0	valmet.com	#Ransomware
 0.0.0.0	nazwa.pl	#Ransomware
 0.0.0.0	mail.ru	#Ransomware
-0.0.0.0	icanhazip.com	#Ransomware
+# 0.0.0.0	icanhazip.com	#Ransomware
 0.0.0.0	www.490a-b8b5-9b8c1e870b0c.com	#Ransomware
 0.0.0.0	secure.logmeinrescue-enterprise.com	#Ransomware
 0.0.0.0	pc1.114central.com	#Ransomware
