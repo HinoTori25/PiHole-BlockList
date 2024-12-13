@@ -5134,3 +5134,4 @@
 0.0.0.0	www.monarkpapes.com	#Ransomware
 0.0.0.0	1.avaideas.com	#Ransomware
 0.0.0.0	holland-s9a.stormix.site	#Ransomware
+0.0.0.0 www.grupodulcemar.pe #Ransomware
