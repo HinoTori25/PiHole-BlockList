@@ -3214,7 +3214,7 @@
 0.0.0.0	remote-config.gog.com	#Ransomware
 0.0.0.0	static-global-s-msn-com.akamaized.net	#Ransomware
 0.0.0.0	static.eldiariomontanes.es	#Ransomware
-0.0.0.0	static.licdn.com	#Ransomware
+#0.0.0.0	static.licdn.com	#Fix domain
 0.0.0.0	www.msftconnecttest.com	#Ransomware
 0.0.0.0	belajarexcellent.com	#Ransomware
 0.0.0.0	bimbelprofbob.com	#Ransomware
