@@ -269,7 +269,7 @@
 0.0.0.0	on-sinch.com	#Ransomware
 0.0.0.0	mgmresorts-okta.com	#Ransomware
 0.0.0.0	marsh-hr.com	#Ransomware
-0.0.0.0	linkedinsso.com	#Ransomware
+#0.0.0.0	linkedinsso.com	#Ransomware
 0.0.0.0	grubhubsso.com	#Ransomware
 0.0.0.0	gitlabsso.com	#Ransomware
 0.0.0.0	gitlabhr.com	#Ransomware
@@ -2502,7 +2502,7 @@
 0.0.0.0	blog.chitki.com	#Ransomware
 0.0.0.0	reports.banks.com	#Ransomware
 0.0.0.0	directory.banks.com	#Ransomware
-0.0.0.0	cdn.banks.com	#Ransomware
+#0.0.0.0	cdn.banks.com	#Ransomware
 0.0.0.0	set.alloy.services	#Ransomware
 0.0.0.0	wp-admin.bestmaccollection.com	#Ransomware
 0.0.0.0	wmt.reservemygamecode.qa.adility.com	#Ransomware
@@ -3184,7 +3184,7 @@
 0.0.0.0	urlscarthal.com	#Ransomware
 0.0.0.0	urlscarth.org	#Ransomware
 0.0.0.0	urlscarthar.com	#Ransomware
-0.0.0.0	uriscan.io	#Ransomware
+#0.0.0.0	uriscan.io	#Ransomware
 0.0.0.0	urlscandit.com	#Ransomware
 0.0.0.0	isatap.otc.com	#Ransomware
 0.0.0.0	otc.org	#Ransomware
@@ -3194,8 +3194,8 @@
 0.0.0.0	aa.hostasa.org	#Ransomware
 0.0.0.0	ppp.gggatat456.com	#Ransomware
 0.0.0.0	www.milehighmedia.com	#Ransomware
-0.0.0.0	akamaitechnologies.com	#Ransomware
-0.0.0.0	ip-api.com	#Ransomware
+#0.0.0.0	akamaitechnologies.com	#Ransomware
+#0.0.0.0	ip-api.com	#Ransomware
 0.0.0.0	a1-qa.espncdn.com	#Ransomware
 0.0.0.0	a2476.g2.akamai.net	#Ransomware
 0.0.0.0	a280.g2.akamai.net	#Ransomware
@@ -3210,7 +3210,7 @@
 0.0.0.0	download.edrawsoft.com	#Ransomware
 0.0.0.0	f9e583c-a.akamaihd.net	#Ransomware
 0.0.0.0	miloquilla.linkpc.net	#Ransomware
-0.0.0.0	platform.linkedin.com	#Ransomware
+#0.0.0.0	platform.linkedin.com	#Ransomware
 0.0.0.0	remote-config.gog.com	#Ransomware
 0.0.0.0	static-global-s-msn-com.akamaized.net	#Ransomware
 0.0.0.0	static.eldiariomontanes.es	#Ransomware
@@ -4702,7 +4702,7 @@
 0.0.0.0	alt1.toolbarqueries.google.as	#Ransomware
 0.0.0.0	arc.msn.com	#Ransomware
 0.0.0.0	api.mixpanel.com	#Ransomware
-0.0.0.0	47.deploy.akamaitechnologies.com	#Ransomware
+#0.0.0.0	47.deploy.akamaitechnologies.com	#Ransomware
 0.0.0.0	verisign.com	#Ransomware
 0.0.0.0	valmet.com	#Ransomware
 0.0.0.0	nazwa.pl	#Ransomware
