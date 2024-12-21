@@ -4684,7 +4684,7 @@
 0.0.0.0	vortex-nlb-http2-fed-us-taut-purple.nr-data.net	#Ransomware
 0.0.0.0	us4-dhplincy.looker.chronicle.security	#Ransomware
 0.0.0.0	toolbarqueries.google.la	#Ransomware
-0.0.0.0	ssl.gstatic.com	#Ransomware
+#0.0.0.0	ssl.gstatic.com	#Ransomware
 0.0.0.0	shell.windows.com	#Ransomware
 0.0.0.0	sfd-production.azurefd.net	#Ransomware
 0.0.0.0	sea11-wanin-asia-southeast1-asia-southeast1.looker.chronicle.security	#Ransomware
