@@ -5135,3 +5135,4 @@
 0.0.0.0	1.avaideas.com	#Ransomware
 0.0.0.0	holland-s9a.stormix.site	#Ransomware
 0.0.0.0 www.grupodulcemar.pe #Ransomware
+0.0.0.0 wp3.xyz #malware 2025.01.17
