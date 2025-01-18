@@ -200,7 +200,7 @@
 0.0.0.0	mxzex322.xyz	#Ransomware
 0.0.0.0	mxtmx.xyz	#Ransomware
 0.0.0.0	moplex355.xyz	#Ransomware
-0.0.0.0	moknex158.xyz	#Ransomware
+0.0.0.0	moknex158.xyz	#Ransomware
 0.0.0.0	mktrex219.xyz	#Ransomware
 0.0.0.0	mktexlog238.xyz	#Ransomware
 0.0.0.0	mkstat227.xyz	#Ransomware
