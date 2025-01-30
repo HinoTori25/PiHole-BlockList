@@ -1179,7 +1179,7 @@
 0.0.0.0	cisa.gov	#Ransomware
 0.0.0.0	cisecurity.org	#Ransomware
 0.0.0.0	cyber.gov.au	#Ransomware
-0.0.0.0	digicert.com	#Ransomware
+#0.0.0.0	digicert.com	#Ransomware
 0.0.0.0	em.cab	#Ransomware
 0.0.0.0	ic3.gov	#Ransomware
 0.0.0.0	iplogger.org	#Ransomware
@@ -4751,7 +4751,7 @@
 0.0.0.0	wwww.windowsupdate.com	#Ransomware
 0.0.0.0	www.windowsupdate.com	#Ransomware
 0.0.0.0	www.globalsign.com	#Ransomware
-0.0.0.0	www.digicert.com	#Ransomware
+#0.0.0.0	www.digicert.com	#Ransomware
 0.0.0.0	wvw.globalsign.com	#Ransomware
 0.0.0.0	wp.download.windowsupdate.com	#Ransomware
 0.0.0.0	vww.globalsign.com	#Ransomware
