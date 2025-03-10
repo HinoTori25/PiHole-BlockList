@@ -5098,3 +5098,4 @@
 0.0.0.0 www.grupodulcemar.pe #Ransomware
 0.0.0.0 wp3.xyz #malware 2025.01.17
 0.0.0.0 guaicui.com.br #malware 2025.01.30
+0.0.0.0 cdn.csyndication.com #backdoor 2025.03.10
