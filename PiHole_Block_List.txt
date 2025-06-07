@@ -21582,3 +21582,15 @@
 0.0.0.0 zzevmjynoljz.bid
 0.0.0.0 zzqhsrg.ru
 0.0.0.0 zzvjaqnkq.bid
+0.0.0.0 atual2025.com #malware 2025.06.06
+0.0.0.0 clientepj.com #malware 2025.06.06
+0.0.0.0 computadorpj.com #malware 2025.06.06
+0.0.0.0 financial-executive.com #malware 2025.06.06
+0.0.0.0 hamrah-tejarat.com #malware 2025.06.06
+0.0.0.0 nfe-fiscal.com #malware 2025.06.06
+0.0.0.0 ranchocentral.com #malware 2025.06.06
+0.0.0.0 servidor2025.com #malware 2025.06.06
+0.0.0.0 syarousi-search.com #malware 2025.06.06
+0.0.0.0 nf-eletronica.org #malware 2025.06.06
+0.0.0.0 relay.lombrelone.com #malware 2025.06.06
+0.0.0.0 webrelayapi.online #malware 2025.06.06
