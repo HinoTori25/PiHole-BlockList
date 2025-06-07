@@ -1,7 +1,6 @@
 # Title: The Block List Project - Spam List
-# Expires: 1 day
-# Homepage: https://blocklist.site
-# You can support by:
+# Homepage: https://blog.raynetsec.com
+# You can support by: thephoenix25@protonmail.com
 # - reporting false positives
 #
 # Spam list
