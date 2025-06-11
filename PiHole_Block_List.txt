@@ -21593,3 +21593,4 @@
 0.0.0.0 nf-eletronica.org #malware 2025.06.06
 0.0.0.0 relay.lombrelone.com #malware 2025.06.06
 0.0.0.0 webrelayapi.online #malware 2025.06.06
+0.0.0.0 gestisciweb.com #malware Wazuh exploit
