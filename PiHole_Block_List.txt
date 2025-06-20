@@ -21594,3 +21594,4 @@
 0.0.0.0 relay.lombrelone.com #malware 2025.06.06
 0.0.0.0 webrelayapi.online #malware 2025.06.06
 0.0.0.0 gestisciweb.com #malware Wazuh exploit
+0.0.0.0 fas-otdel-ru.com #malware 2025.06.19
