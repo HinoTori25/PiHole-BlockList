@@ -21608,3 +21608,9 @@
 0.0.0.0 reurl.cc
 0.0.0.0 lunnayareka.com
 0.0.0.0 mentalfloss.live #malware 2025.06.26
+0.0.0.0 gml-grp.com
+0.0.0.0 g0st.com
+0.0.0.0 pukishophe.pro
+0.0.0.0 unrealistic-reaction.com
+0.0.0.0 www.kitabersatu.pro
+0.0.0.0 scarheavity.shop
