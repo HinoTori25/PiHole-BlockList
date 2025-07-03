@@ -21614,3 +21614,9 @@
 0.0.0.0 unrealistic-reaction.com
 0.0.0.0 www.kitabersatu.pro
 0.0.0.0 scarheavity.shop
+0.0.0.0 topworkredbay.shop #Ad TMO
+0.0.0.0 21wiz.com #Ad TMO
+0.0.0.0 cdn.runative-syndicate.com #Ad TMO
+0.0.0.0 madurird.com #Ad TMO
+0.0.0.0 bvtpk.com #Ad TMO
+0.0.0.0 gizokraijaw.net #Ad TMO
