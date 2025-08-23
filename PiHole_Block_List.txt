@@ -21620,3 +21620,4 @@
 0.0.0.0 madurird.com #Ad TMO
 0.0.0.0 bvtpk.com #Ad TMO
 0.0.0.0 gizokraijaw.net #Ad TMO
+0.0.0.0 banorte.life #phishing
