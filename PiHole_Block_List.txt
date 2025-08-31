@@ -21621,3 +21621,4 @@
 0.0.0.0 bvtpk.com #Ad TMO
 0.0.0.0 gizokraijaw.net #Ad TMO
 0.0.0.0 banorte.life #phishing
+0.0.0.0 grupopiclebrija.gov.co #virus Factura
