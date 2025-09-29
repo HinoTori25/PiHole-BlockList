@@ -21623,3 +21623,4 @@
 0.0.0.0 banorte.life #phishing
 0.0.0.0 grupopiclebrija.gov.co #virus Factura
 0.0.0.0 www.officentry.com #Phishing survey 2025.09.04
+0.0.0.0 teams-install.top #phishing Teams 2025.09.25
