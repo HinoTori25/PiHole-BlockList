@@ -21624,3 +21624,5 @@
 0.0.0.0 grupopiclebrija.gov.co #virus Factura
 0.0.0.0 www.officentry.com #Phishing survey 2025.09.04
 0.0.0.0 teams-install.top #phishing Teams 2025.09.25
+0.0.0.0 cdn-js-node.com #Trojan
+0.0.0.0 node-packages-updates.com #Trojan
